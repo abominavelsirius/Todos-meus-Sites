@@ -8,7 +8,8 @@
 body {
     background: #141414;
     font-family: 'Kanit', sans-serif;
-
+    padding: 0;
+    margin: 0;
 
 }
 
@@ -47,3 +48,17 @@ header {
     opacity: 1;
 }
 
+
+
+.rodape {
+    background: rgb(18, 184, 196);
+    height: 50px;
+}
+
+.titulo__secundario {
+    font-size: 24px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
